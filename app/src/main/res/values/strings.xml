@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ScoreKeeperApp</string>
+
+    <string name="name_of_the_game">Score For Cricket</string>
+
+    <string name="name_of_team_one">Team A</string>
+    <string name="name_of_team_two">Team B</string>
+
+    <string name="total_score">Total Runs</string>
+    <string name="initial_score">0</string>
+
+    <string name="players_left">Players Left</string>
+    <string name="total_players">10</string>
+
+
+    <string name="single_run">+1 Run</string>
+    <string name="four">Four</string>
+    <string name="six">Six</string>
+    <string name="out">Out</string>
+
+    <string name="reset">Reset</string>
+
+
+
+
+
+
+</resources>
